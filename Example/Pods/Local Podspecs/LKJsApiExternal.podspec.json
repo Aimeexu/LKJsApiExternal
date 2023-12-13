@@ -1,0 +1,22 @@
+{
+  "name": "LKJsApiExternal",
+  "version": "0.1.0",
+  "summary": "A short description of LKJsApiExternal.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Aimeexu/LKJsApiExternal",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Aimeexu": "1062303846@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Aimeexu/LKJsApiExternal.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LKJsApiExternal/Classes/**/*"
+}

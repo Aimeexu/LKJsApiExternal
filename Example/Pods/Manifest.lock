@@ -1,0 +1,16 @@
+PODS:
+  - LKJsApiExternal (0.1.0)
+
+DEPENDENCIES:
+  - LKJsApiExternal (from `../`)
+
+EXTERNAL SOURCES:
+  LKJsApiExternal:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LKJsApiExternal: b1ebcfdc36616a083214c0070fd84c0138257325
+
+PODFILE CHECKSUM: e5af6e407a2dc5c35ce1cc01c83f7f0fb2fe0ada
+
+COCOAPODS: 1.11.3

@@ -16,7 +16,7 @@
 
 @implementation LKJsApiExternal
 
-+ (LKJsApiExternal *)LKJsApiExternal {
++ (LKJsApiExternal *)sharedLKJsApiExternal {
     static LKJsApiExternal *sharedLKJsApiExternal = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
